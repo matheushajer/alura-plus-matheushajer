@@ -5,6 +5,14 @@ Projeto desenvolvido no curso de HTML e CSS: Praticando HTML/CSS da Alura.
 
 Curso voltado para prática dos conteúdos de HTML e CSS aprendidos durante a formação - A partir do zero:  HTML e CSS para projetos web.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura Plus**
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         | https://alura-plus-matheushajer.vercel.app/
+
+![](https://user-images.githubusercontent.com/75273536/225648763-200b5401-6fba-42f4-8bdf-b69cd8a2ac0b.png?text=capa-alura-plus#vitrinedev)
+
 ## Temas abordados durante o curso
 
 - Construção de um site utilizando HTML e CSS;
@@ -67,13 +75,3 @@ Curso voltado para prática dos conteúdos de HTML e CSS aprendidos durante a fo
 ### Melhoria para o projeto
 
 Atualmente, o projeto não conta com páginas responsivas, como melhoria futura, a ideia é implementar responsividade para diversas telas ao projeto.
-
-###
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Alura Plus**
-| :label: Tecnologias | HTML, CSS.
-| :rocket: URL         | https://alura-plus-matheushajer.vercel.app/
-
-![](https://user-images.githubusercontent.com/75273536/225648763-200b5401-6fba-42f4-8bdf-b69cd8a2ac0b.png?text=capa-alura-plus#vitrinedev)
