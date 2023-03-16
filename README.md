@@ -73,7 +73,7 @@ Atualmente, o projeto não conta com páginas responsivas, como melhoria futura,
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Plus**
-| :label: Tecnologias | HTML, CSS, (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS.
 | :rocket: URL         | https://alura-plus-matheushajer.vercel.app/
 
 ![](https://user-images.githubusercontent.com/75273536/225648763-200b5401-6fba-42f4-8bdf-b69cd8a2ac0b.png?text=capa-alura-plus#vitrinedev)
