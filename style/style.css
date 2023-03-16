@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --branco-pricipal: #FFFFFF;
+    --branco-secundario: #F9F9F9;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7; 
+    --cor-fundo: #00030C;
+    --font-principal: 'Inter';
+    --botao-background-efeito: blue;
+}
+
+body{
+    background-color: var(--cor-fundo);
+    color: var(--branco-pricipal);
+    font-family: var(--font-principal);
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.principal{
+    background-image: url("/assets/background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+
+
+.container__caixa{
+    margin:  0 4em;
+}
+
+.container__titulo{
+    font-size: 1.75em;
+    font-weight: 700;
+}
+
+.container__imagem{
+    margin: 1em 0 2em 0;
+    width: 65%;
+}
+
+.container__botao{
+    background-color: var(--botao-azul);
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 1em;
+    color: var(--branco-pricipal);
+    display: block;
+    margin-bottom: 1em;
+}
+
+.container_secundario{
+    background-color: transparent;
+    border: 2px solid var(--branco-pricipal);
+}
+
+.container__aviso{
+    color: var(--cinza-secundario);
+    font-size: 0.75em;
+}
+
+.secundario__imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo{
+    font-weight: 700;
+    font-size: 3em;
+    color: var(--branco-pricipal);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto{
+    color: var(--cinza-secundario);
+    font-size: 1em;
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao{
+    padding: 2em;
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo{
+    font-size: 3em;
+    color: var(--branco-pricipal);
+}
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.lista__itens{
+    font-size: 2em;
+    color: var(--branco-pricipal);
+}
+
+.rodape{
+    text-align: center;
+    margin: 2em 6.5em;
+}
+
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 2em 0;
+}
+
+.lista__link a{
+    font-size: 1em;
+    color: var(--branco-pricipal);
+    text-decoration: none;
+    gap: 1em;
+    margin-left: 1em;
+}
+
+.rodape__texto{
+    color: var(--cinza-secundario);
+    font-size: 0.9;
+    margin: 1em 0;
+}
+
+.lista__link a:hover{
+    color: var(--botao-azul)
+}
+
+.container__caixa a:hover{
+    background-color: var(--botao-background-efeito);
+}
+
+.container__descricao a:hover{
+    background-color: var(--botao-background-efeito)
+}
