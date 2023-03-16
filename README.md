@@ -72,6 +72,11 @@ Curso voltado para prática dos conteúdos de HTML e CSS aprendidos durante a fo
 - Escrever commits;
 - Construir um repositório com o código do curso;
 
+### Preview
+
+![Tab-Home](https://user-images.githubusercontent.com/75273536/225661789-47861d34-2903-4cd9-903e-b166360c8311.gif)
+
+
 ### Melhoria para o projeto
 
 Atualmente, o projeto não conta com páginas responsivas, como melhoria futura, a ideia é implementar responsividade para diversas telas ao projeto.
